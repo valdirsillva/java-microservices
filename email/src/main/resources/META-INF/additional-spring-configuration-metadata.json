@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "name": "broker.queue.email.name",
+            "type": "java.lang.String",
+            "description": "A description for 'broker.queue.email.name'"
+        }
+    ]
+}
